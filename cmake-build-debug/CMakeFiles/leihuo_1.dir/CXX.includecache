@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/_08.Clion/wangyileihuo/leihuo_1.cpp
+iostream
+-
+vector
+-
+climits
+-
+cstdlib
+-
+stack
+-
+algorithm
+-
+unordered_map
+-
+unordered_set
+-
+queue
+-
+functional
+-
+

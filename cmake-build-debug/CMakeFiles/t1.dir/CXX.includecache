@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/_08.Clion/Test/t1.cpp
+iostream
+-
+vector
+-
+climits
+-
+cstdlib
+-
+stack
+-
+algorithm
+-
+unordered_map
+-
+unordered_set
+-
+queue
+-
+functional
+-
+condition_variable
+-
+mutex
+-
+

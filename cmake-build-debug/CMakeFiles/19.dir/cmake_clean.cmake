@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "19.exe"
+  "19.exe.manifest"
+  "19.pdb"
+  "CMakeFiles/19.dir/Jianzhi/19.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/25.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/28.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/29.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/31.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/32.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/33.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/36.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/38.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/40.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/41.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/42.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/43.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/44.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/45.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/46.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/47.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/48.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/49.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/51.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/54.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/55-II.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/55.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/57.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/59.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/62.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/65.cpp.obj"
+  "CMakeFiles/19.dir/Jianzhi/banzi.cpp.obj"
+  "CMakeFiles/19.dir/OJ_Exe/1.cpp.obj"
+  "lib19.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/19.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

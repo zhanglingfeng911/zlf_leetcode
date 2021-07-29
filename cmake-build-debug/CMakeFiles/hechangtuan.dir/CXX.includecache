@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/_08.Clion/WY/hechangtuan .cpp
+iostream
+-
+vector
+-
+climits
+-
+cstdlib
+-
+stack
+-
+algorithm
+-
+unordered_map
+-
+unordered_set
+-
+queue
+-
+stdio.h
+-
+iostream
+-
+vector
+-
+algorithm
+-
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+iostream
+-
+algorithm
+-
+
